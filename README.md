@@ -11,3 +11,4 @@ Each file explains my approach and the time/space complexity in comments.
 |---|---------|-----------|------|-------|--------|
 | 1 | [Contains Duplicate](01-arrays-hashing/contains_duplicate.py) | Easy | O(n) | O(n) | 🔁|
 | 2 | [Valid Anagram](01-arrays-hashing/valid_anagram.py) | Easy | O(n) | O(1) | ✅ |
+| 3 | [Two Sum](01-arrays-hashing/two-sum.py) | Easy | O(n) | O(1) | ✅ |
